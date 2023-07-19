@@ -1,0 +1,15 @@
+{
+  "name": "desafio_turtles",
+  "version": "1.0.0",
+  "description": "desafio para o mini-curso da beyond co",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "lcmc@cin.ufpe.br",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^20.8.3"
+  }
+}

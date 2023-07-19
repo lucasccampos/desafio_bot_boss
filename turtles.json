@@ -1,0 +1,72 @@
+[
+    {
+        "family_name": "Carettochelyidae",
+        "description": "\n                        The Carettochelyidae family of turtles — more commonly known as \"Pig-nosed turtle\" — were first discovered in 1887 by Boulenger.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carettochelys_insculpta.jpg/200px-Carettochelys_insculpta.jpg"
+    },
+    {
+        "family_name": "Cheloniidae",
+        "description": "\n                        The Cheloniidae family of turtles — more commonly known as \"Sea turtles\" — were first discovered in 1811 by Oppel.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/GreenSeaTurtle-2.jpg/200px-GreenSeaTurtle-2.jpg"
+    },
+    {
+        "family_name": "Chelydridae",
+        "description": "\n                        The Chelydridae family of turtles — more commonly known as \"Snapping turtles\" — were first discovered in 1831 by Gray.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alligator_snapping_turtle.jpg/200px-Alligator_snapping_turtle.jpg"
+    },
+    {
+        "family_name": "Dermatemydidae",
+        "description": "\n                        The Dermatemydidae family of turtles — more commonly known as \"Central American river turtle\" — were first discovered in 1870 by Gray.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dermatemydidae.JPG/200px-Dermatemydidae.JPG"
+    },
+    {
+        "family_name": "Dermochelyidae",
+        "description": "\n                        The Dermochelyidae family of turtles — more commonly known as \"Leatherback sea turtle\" — were first discovered in 1843 by Fitzinger.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LeatherbackTurtle.jpg/200px-LeatherbackTurtle.jpg"
+    },
+    {
+        "family_name": "Emydidae",
+        "description": "\n                        The Emydidae family of turtles — more commonly known as \"Pond or water turtles\" — were first discovered in 1815 by Rafinesque.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tortoise1_cepolina.jpg/200px-Tortoise1_cepolina.jpg"
+    },
+    {
+        "family_name": "Geoemydidae",
+        "description": "\n                        The Geoemydidae family of turtles — more commonly known as \"Asian river, leaf, roofed or Asian box turtles\" — were first discovered in 1868 by Theobald.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cuora_amboinensis_kamaroma_j.jpg/200px-Cuora_amboinensis_kamaroma_j.jpg"
+    },
+    {
+        "family_name": "Kinosternidae",
+        "description": "\n                        The Kinosternidae family of turtles — more commonly known as \"Mud or musk turtles\" — were first discovered in 1857 by Agassiz.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sternotherus_odoratus.jpg/200px-Sternotherus_odoratus.jpg"
+    },
+    {
+        "family_name": "Platysternidae",
+        "description": "\n                        The Platysternidae family of turtles — more commonly known as \"Big-headed turtle\" — were first discovered in 1869 by Gray.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zolw_wielkoglowy.jpg/200px-Zolw_wielkoglowy.jpg"
+    },
+    {
+        "family_name": "Testudinidae",
+        "description": "\n                        The Testudinidae family of turtles — more commonly known as \"Tortoises\" — were first discovered in 1788 by Batsch.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tortoise.aldabra.750pix.jpg/200px-Tortoise.aldabra.750pix.jpg"
+    },
+    {
+        "family_name": "Trionychidae",
+        "description": "\n                        The Trionychidae family of turtles — more commonly known as \"Softshell turtles\" — were first discovered in 1826 by Fitzinger.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Apalone_spinifera.jpg/200px-Apalone_spinifera.jpg"
+    },
+    {
+        "family_name": "Chelidae",
+        "description": "\n                        The Chelidae family of turtles — more commonly known as \"Austro-American sideneck turtles\" — were first discovered in 1831 by Gray.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eastern_long_neck_tortoise_-_chelodina_longicollis.jpg/200px-Eastern_long_neck_tortoise_-_chelodina_longicollis.jpg"
+    },
+    {
+        "family_name": "Pelomedusidae",
+        "description": "\n                        The Pelomedusidae family of turtles — more commonly known as \"Afro-American sideneck turtles\" — were first discovered in 1868 by Cope.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pelomedusa_subrufa.JPG/200px-Pelomedusa_subrufa.JPG"
+    },
+    {
+        "family_name": "Podocnemididae",
+        "description": "\n                        The Podocnemididae family of turtles — more commonly known as \"Madagascar big-headed, Big-headed Amazon River turtle and South American sideneck river turtles\" — were first discovered in 1869 by Gray.\n                    ",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erymnochelys_madagascariensis.jpg/200px-Erymnochelys_madagascariensis.jpg"
+    }
+]
